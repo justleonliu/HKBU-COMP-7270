@@ -1,0 +1,42 @@
+.title {
+    font-size: 70px;
+    text-align: center
+}
+
+p {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+p1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p2 {
+    font-size: 20px;
+}
+
+p3 {
+    width: 100%;
+    font-size: 20px;
+    display: block;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#bigpicture {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table__wrapper {
+    overflow-x: auto;
+}
